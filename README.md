@@ -1,6 +1,6 @@
 # Mirror wars
 
-I participated in the Counterspell Hackathon for the first time. I was working with a team of three. Vibhu Siddha and Tejas. 
+I participated in the **Counterspell Hackathon** on November 23rd and 24th, 2024 for the first time. I was working with a team of three:  Vibhu Siddha, Tejas and I. 
 
 ## Theme of the hackathon
 You are your own enemy.
