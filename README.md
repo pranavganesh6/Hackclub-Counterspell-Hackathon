@@ -1,4 +1,4 @@
-# Mirror wars
+# Mirror Wars
 
 I participated in the **Counterspell Hackathon** on November 23rd and 24th, 2024 for the first time. I was working with a team of three:  Vibhu Siddha, Tejas and I. 
 
