@@ -29,5 +29,7 @@ Mirror - Allows player to progress through the game after the shadow is killed i
 
 ## Final game
 
+![Game Preview](https://github.com/pranavganesh6/Hackclub-Counterspell-Hackathon/blob/main/character-assets/game.gif)
+
 
 
